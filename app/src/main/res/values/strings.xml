@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Service_demo</string>
+
+    <item name="take_picure" type="id" />
+</resources>
